@@ -1,0 +1,24 @@
+{
+  "name": "jasmine-learning",
+  "version": "1.0.0",
+  "description": "Test JAvaScript with Jasmine second edition",
+  "main": "webpack.config.js",
+  "dependencies": {
+    "jasmine": "^2.3.2",
+    "jquery": "*"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apoberez/jasmine-testing.git"
+  },
+  "author": "Alexander Pobereznichenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/apoberez/jasmine-testing/issues"
+  },
+  "homepage": "https://github.com/apoberez/jasmine-testing#readme"
+}
